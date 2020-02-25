@@ -1,0 +1,16 @@
+# IDE
+__pycache__/
+.idea/
+
+# data
+github_data/*.pkl
+!/github_data/jdk_vocab.pkl
+/github_data/codebase_analysis/*.pkl
+/github_data/codebase_search/*.pkl
+/github_data/codebase_parse/*.pkl
+/github_data/codebase_parse/*.txt
+
+# env
+venv/
+venv.rar
+*.zip
