@@ -4,7 +4,7 @@ chardet==3.0.4
 Deprecated==1.2.4
 idna==2.8
 mat4py==0.4.2
-nltk==3.4
+nltk==3.4.5
 numpy==1.16.1
 pandas==0.24.1
 pycparser==2.17
